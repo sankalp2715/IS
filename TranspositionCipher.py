@@ -1,5 +1,5 @@
 # Transposition Cipher: Encryption and Decryption
-
+#python -m pip install pycryptodome
 def encrypt(message, key):
     cipher = [''] * key
 
