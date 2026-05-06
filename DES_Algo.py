@@ -1,5 +1,5 @@
 # DES Encryption and Decryption in Python
-
+#python -m pip install pycryptodome
 from Crypto.Cipher import DES
 from Crypto.Util.Padding import pad, unpad
 
