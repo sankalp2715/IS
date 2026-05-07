@@ -1,4 +1,7 @@
 # Program to perform AND and XOR with 127 on each character of a string
+#sudo apt update
+#sudo apt install python3-pip
+#python3 -m pip install pycryptodome
 # 🔹 Take input from user
 s = input("Enter a string: ")
 
