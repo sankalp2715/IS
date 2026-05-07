@@ -1,5 +1,7 @@
 # Transposition Cipher: Encryption and Decryption
-#python -m pip install pycryptodome
+#sudo apt update
+#sudo apt install python3-pip
+#python3 -m pip install pycryptodome
 def encrypt(message, key):
     cipher = [''] * key
 
